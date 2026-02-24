@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "フィラメント",
+  "base_artist": "Uru",
+  "createdAt": "2026-02-24T13:16:01.904805Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "フィラメント",
+      "artist": "Uru",
+      "has_synced": true,
+      "path": "select/01_フィラメント_Uru.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "フィラメント - Filament",
+      "artist": "Uru",
+      "has_synced": true,
+      "path": "select/02_フィラメント_-_Filament_Uru.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ゴールド・フィラメント",
+      "artist": "PENGUIN RESEARCH",
+      "has_synced": true,
+      "path": "select/03_ゴールド・フィラメント_PENGUIN_RESEARCH.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "フィラメント",
+      "artist": "Official髭男dism",
+      "has_synced": true,
+      "path": "select/04_フィラメント_Official髭男dism.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "フィラメント",
+      "artist": "Uru",
+      "has_synced": false,
+      "path": "select/pl_01_フィラメント_Uru.txt"
+    }
+  ]
+}
